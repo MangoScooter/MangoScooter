@@ -7,7 +7,7 @@ My work combines **cloud architecture, machine learning, and MLOps practices** t
 
 ## 📂 Featured Projects  
 
-1. [ETL Data Lake Pipeline](https://github.com/your-username/project1)  
+1. [ETL Data Lake Pipeline](https://github.com/MangoScooter/nyc-taxi-datalake)  
    *AWS S3, Glue, Athena, Redshift* — Raw → Clean → Warehouse pipeline.  
 
 2. [Student Dropout Prediction API](https://github.com/your-username/project2)  
