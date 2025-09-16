@@ -10,16 +10,16 @@ My work combines **cloud architecture, machine learning, and MLOps practices** t
 1. [ETL Data Lake Pipeline](https://github.com/MangoScooter/nyc-taxi-datalake)  
    *AWS S3, Glue, Athena, Redshift* — Raw → Clean → Warehouse pipeline.  
 
-2. [Student Dropout Prediction API](https://github.com/your-username/project2)  
+2. [Student Dropout Prediction API](https://github.com/MangoScooter/Student-Dropout-Prediction-API)  
    *FastAPI, Docker, Sklearn* — Model served as REST API.  
 
-3. [Real-Time Streaming AI](https://github.com/your-username/project3)  
+3. [Real-Time Streaming AI](https://github.com/MangoScooter/Real-Time-Streaming-AI)  
    *Kafka, Spark Streaming, ML* — IoT sensor anomaly detection in real-time.  
 
-4. [MLOps Automated Retraining](https://github.com/your-username/project4)  
+4. [MLOps Automated Retraining](https://github.com/MangoScooter/MLOps-Automated-Retraining)  
    *MLflow, GitHub Actions, SageMaker* — Automated CI/CD pipeline for ML.  
 
-5. [Explainable AI Dashboard](https://github.com/your-username/project5)  
+5. [Explainable AI Dashboard](https://github.com/MangoScooter/Explainable-AI-Dashboard)  
    *SHAP, Streamlit* — Credit risk classifier with interpretability.  
 
 6. [Generative AI Chatbot](https://github.com/MangoScooter/RainbowGuard)  
